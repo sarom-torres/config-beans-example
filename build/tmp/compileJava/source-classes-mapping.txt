@@ -1,0 +1,12 @@
+com/example/myapplication/service/VehicleService.java
+ com.example.myapplication.service.VehicleService
+com/example/myapplication/service/PlaneVehicleService.java
+ com.example.myapplication.service.PlaneVehicleService
+com/example/myapplication/service/CarVehicleService.java
+ com.example.myapplication.service.CarVehicleService
+com/example/myapplication/Application.java
+ com.example.myapplication.Application
+com/example/myapplication/service/VehicleTestService.java
+ com.example.myapplication.service.VehicleTestService
+com/example/myapplication/configuration/AppConfiguration.java
+ com.example.myapplication.configuration.AppConfiguration
